@@ -8,6 +8,7 @@ namespace Proyecto002
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hola Mundo!");
+            Console.WriteLine("Hola Mundo!");
         }
     }
 }
